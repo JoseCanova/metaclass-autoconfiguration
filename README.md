@@ -1,2 +1,2 @@
 # metaclass-autoconfiguration
-Experimento to load the classconstruction of the metamodel in an autoconfiguration mode
+Experiment to load the classconstruction of the metamodel in autoconfiguration mode
